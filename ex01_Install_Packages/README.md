@@ -1,5 +1,6 @@
 # Exercise 01 Installing Packages
-### Working with `dpkg`
+
+## Working with `dpkg`
 Find the usage of the following commands.
 - `dpkg -l`
 - `dpkg -l {package_name}`
@@ -13,7 +14,7 @@ Find the usage of the following commands.
 - `dpkg -s {package_name}`
 - `dpkg --get-selections`
 
-### Working with `apt`
+## Working with `apt`
 - Different between `apt` and `apt-get`, `apt-cache`?
 - Find the usage of the following commands.
     - `apt policy`
@@ -27,6 +28,17 @@ Find the usage of the following commands.
     - `apt purge {package_name}`
     - `apt autoremove`
 
-### Building from source
+## Install Package
 
+### Search for package to install
 
+- Search for packages related to python
+
+- Install package `tree` from official source
+
+- Install package `ffmpeg` from PPA
+
+- Install `woeusb` from deb file
+
+- Build package `john` from Github: [https://github.com/magnumripper/JohnTheRipper](https://github.com/magnumripper/JohnTheRipper)
+- **Advanced:** Convert **rpm** package to **deb** package
