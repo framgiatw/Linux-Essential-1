@@ -54,4 +54,3 @@ Break it down:
 - Show clock
 - Change username background to green, text to pink
 - Add your name to prompt
-- **Advanced:** add Ubuntu code name to prompt

@@ -41,4 +41,3 @@ Find the usage of the following commands.
 - Install `woeusb` from deb file
 
 - Build package `john` from Github: [https://github.com/magnumripper/JohnTheRipper](https://github.com/magnumripper/JohnTheRipper)
-- **Advanced:** Convert **rpm** package to **deb** package

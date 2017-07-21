@@ -1,4 +1,4 @@
-# Exercise Essential Linux Commands
+# Exercise 06 Essential Linux Commands
 
 ## Repo: https://github.com/framgia/fos
 
@@ -19,12 +19,13 @@ Find the usage of the following commands.
 - `ps x`
 - List all `bash` processes belong to root
 - Kill process by PID
-- **Advanced:** Kill all `bash` processes belong to current user
 
 ## Working with `top/htop`
 - Install `htop`
 
 ## Other commands
-- Find the usage of `free` command
-- Find the usage of `df` command
-- Find the usage of `ifconfig` command
+- Practice `free` command
+- Practice `cut` command
+- Practice `df` command
+- Practice `ifconfig` command
+- Practice `head` and `tail` command
