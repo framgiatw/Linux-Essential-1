@@ -1,8 +1,16 @@
-# Exercise 06 Essential Linux Commands
+# Exercise 03 Essential Linux Commands
 
 ## Repo: https://github.com/framgia/fos
 
 - View command's docs with `man`
+
+## Working with `ls`
+Find the usage of the following commands.
+- `ls`
+- `ls -l`
+- `ls -la`
+- `ls -lh`
+- Sort by file size, by extension, by modification time, list only directory,
 
 ## Working with `find`
 Find the usage of the following commands.
