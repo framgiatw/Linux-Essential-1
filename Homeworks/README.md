@@ -8,15 +8,15 @@
 
 ## Homework 1
 
-- Convert **rpm** package of `bless` to **deb** package and install. Source: https://www.rpmfind.net/linux/rpm2html/search.php?query=bless
+Convert **rpm** package of `bless` to **deb** package and install. Source: https://www.rpmfind.net/linux/rpm2html/search.php?query=bless
 
 ## Homework 2
 
-- Create an alias command that list 5 files that is last modified in a folder
+Create an alias command that list 5 files that is last modified in a folder
 
 ## Homework 3
 
-Add Ubuntu code name to prompt. Example: Ubuntu 14.04 is `trusty`
+Add Ubuntu code name to prompt. Example: Ubuntu 14.04 is `trusty`. Get code name from `/etc/lsb-release`, do not hardcoded it !
 
 ```
 {trusty}root@d62797bc75eb:/#
@@ -27,3 +27,7 @@ Add Ubuntu code name to prompt. Example: Ubuntu 14.04 is `trusty`
 Create an alias command `kill_all` that kill all processes that match `{search_phrases}`.
 
 Ex: `kill_all bash`, `kill_all gedit`
+
+## Homework 5
+
+Create an alias command `gplo` that is same as `git pull origin {current_branch}` (we don't have to input current branch name)
